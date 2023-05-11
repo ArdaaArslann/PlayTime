@@ -1,0 +1,20 @@
+#
+#                 _ __           _                _          _
+#                | /_ |         | |              (_)        (_)
+#  __ _ _   _  __| || |_ __   __| | ___ _ __ ___  _ _ __ ___ _
+# / _` | | | |/ _` || | '_ \ / _` |/ _ \ '_ ` _ \| | '__/ __| |
+#| (_| | |_| | (_| || | | | | (_| |  __/ | | | | | | | | (__| |
+# \__,_|\__, |\__,_||_|_| |_|\__,_|\___|_| |_| |_|_|_|  \___|_|
+#        __/ |
+#       |___/
+#
+
+Command:
+  Command: playtime
+  Description: "Oynadığın süreyi gösterir"
+  Aliases: ["oyunsurem"]
+  Usage: "§7» §cKullanım: §7{command} <playerName>"
+
+Messages:
+  Play-Time: "§7» §bToplam oynama süren: §f{day} §bgün, §f{hour} §bsaat, §f{minutes} §bdakika, §f{second} §bsaniye."
+  Players-Play-Time: "§7» §f{player} §badlı oyuncunun oynama süresi: §f{day} §bgün, §f{hour} §bsaat, §f{minutes} §bdakika, §f{second} §bsaniye."
