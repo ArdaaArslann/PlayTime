@@ -2,4 +2,4 @@ name: PlayTime
 main: ayd1ndemirci\PlayTime\Main
 api: 4.0.0
 version: 1
-author: ayd1ndemirci
+authors: ["ayd1ndemirci", "ArdaaArslann"]
