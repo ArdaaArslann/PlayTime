@@ -41,8 +41,4 @@ class Main extends PluginBase
     {
         return $this->sqlite;
     }
-    public function onDisable():void
-    {
-        //
-    }
 }
